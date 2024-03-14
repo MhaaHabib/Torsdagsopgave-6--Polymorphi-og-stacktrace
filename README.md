@@ -1,0 +1,1 @@
+# Torsdagsopgave-6--Polymorphi-og-stacktrace
